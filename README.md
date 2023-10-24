@@ -16,14 +16,9 @@
 
 ## 通过真实用户体验提升整体性能
 
-  
-
-
 ## 减少关键环节的卡顿提升易用性
 
   
-
-
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ced19604a1b44f6b89928cb0e92b31e6~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=3422&h=1810&s=382241&e=png&b=f9ecdf)
 
 ## 减少关键环节卡顿提升易用性
@@ -33,4 +28,8 @@
 [![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b6f982268082479bad9d57cbd06e75b4~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=3422&h=1816&s=720591&e=png&b=faefec)](https://xie.infoq.cn/link?target=https%3A%2F%2Fjuejin.cn%2Fuser%2F78820567681902%2Fposts)
 
 ## 可视化图表构建数据洞察方式
+
+## 联系方式
+ wechat:768838557
+ 官网：https://www.guance.com
 
